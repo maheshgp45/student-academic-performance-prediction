@@ -1,0 +1,2 @@
+Algorithm/Model Used: Random Forest Classifier.
+Accuracy: 98.76% on the test set
